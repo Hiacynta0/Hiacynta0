@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi, I'm Joanna 👋
 
-<!--
-**Hiacynta0/Hiacynta0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation QA Engineer with 2+ years of experience in fintech projects.  
+I specialize in Java-based API test automation and building reliable testing solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Automation & Testing
+- Java, RestAssured, Selenium, TestNG, JUnit
+
+### Tools & CI/CD
+- Jenkins, GitHub Actions, Maven, Allure, Postman
+
+### Other
+- SQL, Git, Swagger, Chrome DevTools
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Notion Shopping List Generator
+Automation tool for generating shopping lists using Notion API.  
+Includes CI/CD automation with GitHub Actions.
+
+👉 [View repo](https://github.com/Hiacynta0/notion-shopping-list-generator)
+
+---
+
+## 📫 Contact
+LinkedIn: [joanna-mazurkiewicz](https://www.linkedin.com/in/joanna-mazurkiewicz-063a77238/)
+
+---
+![cat](https://i.pinimg.com/originals/0e/42/64/0e42643641047cead4aeb5c668fa1069.gif)
