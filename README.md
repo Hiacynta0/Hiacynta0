@@ -1,6 +1,6 @@
 # Hi, I'm Joanna 👋
 
-Automation QA Engineer with 2+ years of experience in fintech projects.  
+Automation QA Engineer with 3+ years of experience in fintech projects.  
 I specialize in Java-based API test automation and building reliable testing solutions.
 
 ---
@@ -8,7 +8,7 @@ I specialize in Java-based API test automation and building reliable testing sol
 ## 🛠️ Tech Stack
 
 ### Automation & Testing
-- Java, RestAssured, Selenium, TestNG, JUnit
+- Java, RestAssured, Selenium, Playwright, TestNG, JUnit, Cucumber
 
 ### Tools & CI/CD
 - Jenkins, GitHub Actions, Maven, Allure, Postman
